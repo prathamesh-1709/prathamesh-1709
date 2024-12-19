@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Prathamesh Sonkamble
 
 🎓 **Data Science Enthusiast | Open to Work | Fresh Graduate**
 
