@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prathamesh Sonkamble
 
-🎓 **Data Science Enthusiast | Open to Work | Fresh Graduate**
+🎓 **Data Science Enthusiast | Open to Work **
 
 I'm a passionate **Data Scientist** with a strong foundation in analytics, machine learning, and data visualization. I specialize in transforming data into actionable insights and love solving real-world problems using data-driven solutions. As a fresh graduate, I am actively seeking opportunities to apply my skills and grow in the field of data science.
 
@@ -12,7 +12,6 @@ I'm a passionate **Data Scientist** with a strong foundation in analytics, machi
 
 ### **Programming Languages**:
 - Python 🐍
-- R 📊
 - SQL 📂
 
 ### **Data Science & Machine Learning**:
@@ -39,7 +38,7 @@ I'm a passionate **Data Scientist** with a strong foundation in analytics, machi
 
 ### **Cloud & Deployment**:
 - AWS (S3, EC2)
-- Google Cloud
+- Google Cloud  ###### need to revuse this
 - Docker & Kubernetes (Containerization)
 
 ---
@@ -48,8 +47,8 @@ I'm a passionate **Data Scientist** with a strong foundation in analytics, machi
 
 I'm always open to collaborating on data-driven projects or discussing new ideas. Feel free to explore my repositories, open issues, or drop me a message!
 
-- 🌐 [LinkedIn](your-linkedin-profile)
-- 📧 Email: [your-email@example.com]
+- 🌐 [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/prathamesh-sonkamble-92b641208/))
+- 📧 Email: [23prathameshs@gmail.com]
 
 ---
 
