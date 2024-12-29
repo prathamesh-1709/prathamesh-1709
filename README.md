@@ -47,7 +47,7 @@ I'm a passionate **Data Scientist** with a strong foundation in analytics, machi
 
 I'm always open to collaborating on data-driven projects or discussing new ideas. Feel free to explore my repositories, open issues, or drop me a message!
 
-- 🌐 [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/prathamesh-sonkamble-92b641208/])
+- 🌐 [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/prathamesh-sonkamble-92b641208/)
 - 📧 Email: [23prathameshs@gmail.com]
 
 ---
