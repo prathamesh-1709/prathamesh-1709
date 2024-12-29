@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prathamesh Sonkamble
 
-🎓 **Data Science Enthusiast | Open to Work **
+🎓 ** Data Science Enthusiast | Open to Work **
 
 I'm a passionate **Data Scientist** with a strong foundation in analytics, machine learning, and data visualization. I specialize in transforming data into actionable insights and love solving real-world problems using data-driven solutions. As a fresh graduate, I am actively seeking opportunities to apply my skills and grow in the field of data science.
 
